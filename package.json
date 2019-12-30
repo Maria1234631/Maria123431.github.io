@@ -1,0 +1,14 @@
+{
+  "name": "_1055_1088_1086_1077_1082_1090",
+  "main": "main.js",
+  "productName": "Проект",
+  "description": "Проект",
+  "author": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "@vkontakte/vkui": "^3.0.0-alpha.3"
+  },
+  "devDependencies": {
+    "electron": "3.0.9"
+  }
+}
