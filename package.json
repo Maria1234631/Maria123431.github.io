@@ -9,6 +9,6 @@
     "@vkontakte/vkui": "^3.0.0-alpha.3"
   },
   "devDependencies": {
-    "electron": "3.0.9"
+    "electron": "9.1.0"
   }
 }
